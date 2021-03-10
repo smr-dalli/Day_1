@@ -1,6 +1,5 @@
 # Day_1
 
-This is the first day of the AI strive bootcamp
+* This is the first day of the AI strive bootcamp and excited to be a part of it and develop my skills over time on coding.
+* Also, getting familiar with GITHUB and the README.
  
-# Day_2
-This is to see how read me file works in the git
